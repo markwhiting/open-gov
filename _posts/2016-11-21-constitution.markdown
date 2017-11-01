@@ -23,9 +23,9 @@ With this constitution, we describe community standards for platform participati
 
 ## Participation in Daemo
 
-Participation in Daemo and its governance is not restricted. Anyone with a Daemo account, which is free for all, can participate. 
+Participation in Daemo and its governance is not restricted. Anyone with a Daemo account, which is free for all, can participate.
 
-User profiles on Daemo display no personally identifiable information about members by default. The profile will identify members by their role(s) in the community and their degree of activity. 
+User profiles on Daemo display no personally identifiable information about members by default. The profile will identify members by their role(s) in the community and their degree of activity.
 
 Members are required to adhere to [community standards](#community-standards).
 
@@ -39,11 +39,11 @@ Members who have spent less than 5 days in the last month, working or requesting
 
 ## Daemo platform team
 
-The Daemo platform team implements and maintains Daemo. This includes but is not limited to platform development, financial management, and ongoing research. The Daemo platform team acts as an independent and neutral group whose activities must follow the constitution. 
+The Daemo platform team implements and maintains Daemo. This includes but is not limited to platform development, financial management, and ongoing research. The Daemo platform team acts as an independent and neutral group whose activities must follow the constitution.
 
 All platform team activities are made public. Because the platform occasionally engages in long term research, some ongoing studies will not be disclosed until after their completion. All research conducted by the platform must comply with ethical research guidance from an Institutional Research Board (IRB) and the [Dynamo Academic Research Guidelines](http://wiki.wearedynamo.org/index.php/Guidelines_for_Academic_Requesters).
 
-## Resolution jury 
+## Resolution jury
 
 A resolution jury is called when there are conflicts in interpreting this constitution between the different parties of the community or the platform.
 
@@ -55,17 +55,19 @@ Resolution jury members receive a badge denoting their participation which they 
 
 Daemo governance is based on an amendable constitution. Constitutional amendments allow Daemo workers and requesters to make specific needs and interests explicit, such that the platform team can interpret those needs and refine Daemo.
 
-Anyone can suggest an idea to modify Daemo. If the idea attracts significant interest in the community, it can be developed into a proposed constitutional amendment and the community will vote to decide if it will be put into effect or not. If successful, the platform will then be tasked with executing any changes outlined in the amendment.
+Anyone in the community or platform team can suggest an idea to modify Daemo. If the idea attracts significant interest in the community, it can be developed into a proposed constitutional amendment and the community will vote to decide if it will be put into effect or not. If successful, the platform will then be tasked with executing any changes outlined in the amendment.
 
 Ideas can emerge through this process that can be implemented quickly. Changes like this may be integrated by the platform team on the condition that the current constitution and amendments are not violated. However, there is no obligation for the platform team to implement such changes as they are not amendments, and this will only happen when the platform team internally determines that it is suitable to implement such a change without a full amendment. Even if the change is made, an amendment can still be passed through the normal process, giving formal support to the previously executed change.
+
 Voting on Daemo has been designed to incorporate the interests of the workers, requesters and the platform to balance their power and lead to a healthy, sustainable marketplace.
 
 ## Introducing and selecting ideas
 
-Ideas are suggested in an online list visible to everyone in the community. The list allows others to comment and up-vote ideas they like. Anyone with a Daemo forum account is able to provide and iterate upon ideas. Ideas that reach a threshold of popularity will move onto idea iteration. Popularity is publicly visible on the original post of an idea listing based on the individual votes.
-An idea reaches the popularity threshold when it receives up-votes from at least 10% of the active members on Daemo. Postings are anonymous until they reach the popularity threshold. 
+Ideas are suggested in an online list hosted on the forum, visible to the public. The list allows others to comment and up-vote ideas they like. Anyone with a Daemo forum account, including the community and platform team, is able to provide and discuss ideas. Ideas that reach a threshold of popularity will move onto idea iteration. Popularity is publicly visible on the original post of an idea listing based on the individual votes.
 
-All ideas will be accepted but are subject to the community standards. 
+An idea reaches the popularity threshold when it receives up-votes from at least 10% of the active members on Daemo. Postings are anonymous until they reach the popularity threshold.
+
+All ideas will be accepted but are subject to the community standards.
 
 ### Idea iteration
 
@@ -103,8 +105,8 @@ The jury will resolve the conflict through a discussion process in which each st
 
 Daemo thrives on positive and fruitful relationships between its members. To this end, it is very important for each member of Daemo to work hard to uphold the goal of maintaining a positive community for everyone. This means Daemo will constantly strive to have no biases, implicit or explicit, and the Daemo members will be held to this standard too. Application of the constitution will remain consistent for all members.
 
-In practice, membership management and community standards follow those outlined by the [discourse community](http://104.236.58.143/faq).
- 
+In practice, membership management and community standards follow those outlined by the [discourse community](http://forum.daemo.org/faq).
+
 ## Flagging
 
 Daemo allows members’ activity to be flagged to bring it to the community’s attention in an anonymous way. Buttons for flagging appear near each action made by a member and visible to another member. As a particular activity or user is flagged more frequently a progressive response will be made automatically.
@@ -116,16 +118,16 @@ Posts on the forum can be flagged for a range of reasons including:
 3. does not adhere to community standards,
 4. and does not support Daemo constitution and its inherent goals.
 
-Tasks posted by requesters can also be flagged if they include error, offensive material without suitable warnings, or if they ask workers to perform work that seems unreasonably priced for the kind and amount of work. When tasks are flagged, the requester will receive a notification. If the task is flagged enough times, it will be removed from the task list of other workers until it is repaired. Flagging thresholds are based on a progressive review as [outlined by the Discourse community](https://meta.discourse.org/t/what-are-flags-and-how-do-they-work/32783). Aggregated and anonymized data about what is flagged will be available to improve decision making. 
+Tasks posted by requesters can also be flagged if they include error, offensive material without suitable warnings, or if they ask workers to perform work that seems unreasonably priced for the kind and amount of work. When tasks are flagged, the requester will receive a notification. If the task is flagged enough times, it will be removed from the task list of other workers until it is repaired. Flagging thresholds are based on a progressive review as [outlined by the Discourse community](https://meta.discourse.org/t/what-are-flags-and-how-do-they-work/32783). Aggregated and anonymized data about what is flagged will be available to improve decision making.
 
 ## Discuss with evidence
 
 Whenever possible, evidence should be cited and linked directly to the source when discussing changes to Daemo. Prototypes, pilots or other information gathering procedures will be used when evidence is incomplete or when a change is fundamentally a matter of opinion. Such experimentation can occur on a small scale, initiated by any community member, or on larger scales, for instance, as part of an amendment development process, conducted by the platform team.
 
 # Other important resources
-1. [Discourse Terms of Service](http://104.236.58.143/tos)
-2. [Discourse Community Standards](http://104.236.58.143/faq)
-3. [Discourse Badges](http://104.236.58.143/badges) and [how they work](https://meta.discourse.org/t/what-do-user-trust-levels-do/4924)
+1. [Discourse Terms of Service](https://forum.daemo.org/tos)
+2. [Discourse Community Standards](http://forum.daemo.org/faq)
+3. [Discourse Badges](http://forum.daemo.org/badges) and [how they work](https://meta.discourse.org/t/what-do-user-trust-levels-do/4924)
 
 # Glossary
 
@@ -139,4 +141,4 @@ Whenever possible, evidence should be cited and linked directly to the source wh
 | Active member | Members who spend more than 5 days a month working or requesting on Daemo are considered active. Only active members’ votes are counted. |
 | Platform team | The group of people who develop and maintain the Daemo platform. Currently titled the [Stanford Crowd Research Collective](http://crowdresearch.stanford.edu) |
 | Resolution jury | A jury consisting of 6 members, two workers, two requesters, and two platform team members. This group will be tasked with resolving disagreements about interpretation of the constitution. |
-| Forum | The main conduit for discussion on Daemo |
+| Forum | The main conduit for discussion on Daemo, hosted at [forum.daemo.org](https://forum.daemo.org/) |
